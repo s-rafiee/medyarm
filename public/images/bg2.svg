@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="270px" height="270px" viewBox="0 0 270 270" style="enable-background:new 0 0 270 270;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.7;}
+	.st1{fill:none;stroke:#ffffff;stroke-width:0.5499;stroke-miterlimit:10;}
+	.st2{fill:#ffffff;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:url(#SVGID_2_);}
+	.st5{fill:url(#SVGID_3_);}
+	.st6{fill:url(#SVGID_4_);}
+	.st7{fill:url(#SVGID_5_);}
+</style>
+<g class="st0">
+	<polyline class="st1" points="9.7,200.2 195.8,257.3 198.2,26 8.8,197.3 45.1,33.2 262.3,83 19.3,83.9 65.6,254 250.6,186.1 "/>
+	<polyline class="st1" points="45.1,33.2 198.2,26 262.3,83 250.6,186.1 195.8,257.3,140,150,256"/>
+	<g>
+		<circle class="st2" cx="45.1" cy="33.2" r="4.4"/>
+		<circle class="st2" cx="198.2" cy="26" r="4.4"/>
+		<circle class="st2" cx="262.3" cy="83" r="4.9"/>
+		<circle class="st2" cx="195.8" cy="257.3" r="4.4"/>
+		<circle class="st2" cx="250.6" cy="186.1" r="3.6"/>
+		<circle class="st2" cx="19.3" cy="83.9" r="4.1"/>
+		<circle class="st2" cx="65.6" cy="254" r="5.1"/>
+		<circle class="st2" cx="8.8" cy="197.3" r="5.8"/>
+		<circle class="st2" cx="140" cy="150" r="5.8"/>
+	</g>
+</g>
+</svg>
